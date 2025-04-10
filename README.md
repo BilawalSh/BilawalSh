@@ -34,7 +34,7 @@
 ### 🔹 [Management Information System](https://panel.lalaservices.com/)  
 > Built for internal MIS, including roles, priorities, timelines, and ticket escalation.
 
-### 🔹 [Psychologist Management System](https://github.com/BilawalSh/real-estate-portal) *(JWT Auth, VueJS)*  
+### 🔹 [Psychologist Management System](https://github.com/BilawalSh/real-estate-portal)
 > It streamlines patient records, appointment scheduling, session notes, and billing—built with Laravel for security, scalability, and seamless clinic operations.
 
 ---
