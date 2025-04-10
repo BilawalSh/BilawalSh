@@ -71,6 +71,7 @@
 | 🔒 Security Practices      | JWT Auth, Policy Gates, CSRF    |
 | 🌐 Deployment Tools Used   | cPanel, GitHub Actions, Forge  |
 | 🧑‍🏫 Team Collaboration     | Led teams, mentored juniors     |
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BilawalSh&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
