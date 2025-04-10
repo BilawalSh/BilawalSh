@@ -63,8 +63,8 @@
 
 | Metric                     | Detail                          |
 |----------------------------|----------------------------------|
-| 🔧 Years of Experience     | 5+ years in Laravel Development |
-| 💼 Total Projects          | 15+ full-cycle projects         |
+| 🔧 Years of Experience     | 3+ years in Laravel Development |
+| 💼 Total Projects          | 25+ full-cycle projects         |
 | 🚀 APIs Built              | 20+ RESTful APIs                |
 | 💻 Tech Stack Mastery      | Laravel, VueJS, ReactJS, MySQL |
 | 🧠 Git Workflow            | Feature branching, PR reviews   |
