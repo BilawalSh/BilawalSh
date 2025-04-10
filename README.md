@@ -74,9 +74,13 @@
 
 ## 📘 Most Used Languages
 
-![PHP](https://img.shields.io/badge/PHP-100%25-777BB4?style=for-the-badge&logo=php)
-![Laravel](https://img.shields.io/badge/Laravel-Expert-E34F26?style=flat-square&logo=laravel&logoColor=white)
-![VueJS](https://img.shields.io/badge/VueJS-Intermediate-42b883?style=flat-square&logo=vue.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-100%25-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-Advanced-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Expert-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-Beginner-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/React-Intermediate-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 
 
