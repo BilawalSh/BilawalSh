@@ -29,7 +29,7 @@
 ## 🛠️ Featured Projects
 
 ### 🔹 [Learning Management System](https://lms.cspsacademy.com)  
-> Client Project.
+> CSPS Academy – A modular, Laravel-based enrollment and scheduling platform for CSS aspirants with dynamic batch management, customizable subject selection, and instructor assignment.
 
 ### 🔹 [Management Information System](https://panel.lalaservices.com/)  
 > Built for internal MIS, including roles, priorities, timelines, and ticket escalation.
