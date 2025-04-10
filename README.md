@@ -59,7 +59,18 @@
 
 ## 📈 GitHub Stats
 
-![Bilawal's GitHub stats](https://github-readme-stats.vercel.app/api?username=BilawalSh&show_icons=true&theme=default)
+## 📊 GitHub Stats (Manual Summary)
+
+| Metric                     | Detail                          |
+|----------------------------|----------------------------------|
+| 🔧 Years of Experience     | 5+ years in Laravel Development |
+| 💼 Total Projects          | 15+ full-cycle projects         |
+| 🚀 APIs Built              | 20+ RESTful APIs                |
+| 💻 Tech Stack Mastery      | Laravel, VueJS, ReactJS, MySQL |
+| 🧠 Git Workflow            | Feature branching, PR reviews   |
+| 🔒 Security Practices      | JWT Auth, Policy Gates, CSRF    |
+| 🌐 Deployment Tools Used   | cPanel, GitHub Actions, Forge  |
+| 🧑‍🏫 Team Collaboration     | Led teams, mentored juniors     |
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BilawalSh&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
