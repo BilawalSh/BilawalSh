@@ -75,6 +75,9 @@
 ## 📘 Most Used Languages
 
 ![PHP](https://img.shields.io/badge/PHP-100%25-777BB4?style=for-the-badge&logo=php)
+![Laravel](https://img.shields.io/badge/Laravel-Expert-E34F26?style=flat-square&logo=laravel&logoColor=white)
+![VueJS](https://img.shields.io/badge/VueJS-Intermediate-42b883?style=flat-square&logo=vue.js&logoColor=white)
+
 
 
 ---
