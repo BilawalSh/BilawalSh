@@ -72,7 +72,10 @@
 | 🌐 Deployment Tools Used   | cPanel, GitHub Actions, Forge  |
 | 🧑‍🏫 Team Collaboration     | Led teams, mentored juniors     |
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BilawalSh&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+## 📘 Most Used Languages
+
+![PHP](https://img.shields.io/badge/PHP-100%25-777BB4?style=for-the-badge&logo=php)
+
 
 ---
 
