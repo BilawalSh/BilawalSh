@@ -57,8 +57,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
 ## 📊 GitHub Stats (Manual Summary)
 
 | Metric                     | Detail                          |
