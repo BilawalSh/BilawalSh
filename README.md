@@ -2,7 +2,7 @@
 
 🚀 Project Manager @ Lala Group of Companies  
 🎓 MS Artificial Intelligence – UAAR, Rawalpindi  
- 📍 Rawalpindi, Pakistan  
+  📍 Rawalpindi, Pakistan  
 📬 [bilawalb92@gmail.com](mailto:bilawalb92@gmail.com) | [LinkedIn](https://linkedin.com/in/bilawalbasheer)
 
 ---
